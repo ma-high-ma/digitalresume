@@ -1,0 +1,178 @@
+*
+{
+margin: 0px;
+padding: 0px;
+}
+.container
+{
+padding-top: 25px;
+}
+#nav-bar
+{
+position: sticky;
+top: 0px;
+
+}
+.navbar
+{
+background-image: linear-gradient(to right, #a517ba, #5f1782);
+padding: 0px;
+
+} 
+.navbar-brand img
+{
+height: 50px;
+padding-left: 0px;
+}
+
+.navbar-nav a
+{
+color: #fff !important;
+font-weight: 600;
+text-align: right;
+}
+
+#banner
+{
+background-image: linear-gradient(to right, #a517ba, #5f1782);
+color: #fff;
+padding-top: 5%;
+}
+
+.name
+{
+font-size: 40px;
+font-weight: 600;
+margin-top: 50px;
+}
+
+.banner-image
+{
+margin-bottom:40px;
+height:120%;
+}
+#about
+{
+border-bottom: 1px solid #7b1798 !important;
+margin: 2px;
+}
+.title-about
+{
+margin-top: 50px;
+font-weight: 400;
+font-size: 30px;
+margin-bottom: 30px;
+}
+
+#details
+{
+margin-top: 40px;
+margin-bottom: 20px;
+}
+.summary
+{
+line-height: 160% !important;
+}
+#picture
+{
+object-fit:cover;
+height:100%;
+width: 100%;
+}
+#details1
+{
+color: #696969;
+}
+.text-prof
+{
+font-size: 25px;
+text-align: left !important;
+top: 0px !important;
+}
+.lead
+{
+text-align: left !important;
+font-size: 170% !important;
+}
+.comp
+{
+text-align: left !important;
+
+padding: 15px !important;
+}
+.insti-name
+{
+color: #7b1798;
+font-size: 120%;
+}
+.year
+{
+font-size: 75%;
+}
+.borderLeft {
+  border-left: 2px solid #7b1798;
+padding-bottom: 10px;
+ padding-left: 20px;
+  bottom: 0;
+}
+#resume
+{
+border-bottom: 1px solid #7b1798 !important;
+margin: 2px;
+}
+#projects
+{
+border-bottom: 1px solid #7b1798 !important;
+margin: 2px;
+}
+#contact
+{
+background-color: #f8f9fa;
+padding-bottom: 50px;
+
+}
+#hobbies
+{
+border-bottom: 1px solid #7b1798 !important;
+margin: 2px;
+padding-bottom: 30px;
+}
+#pic
+{
+object-fit:cover;
+height:70%;
+width: 70%;
+}
+#pic2
+{
+object-fit:cover;
+height: 100%;
+width:100%;
+}
+.icons img
+{
+width: 60px;
+margin: 0px 10px;
+transition: 0.5s;
+}
+
+.icons a:hover img
+{
+transform: translateY(-10px);
+}
+#footer
+{
+background-image: linear-gradient(to right, #a517ba, #5f1782);
+color: #a9a9a9;
+line-height:60%;
+
+}
+.footer-box
+{
+padding: 20px;
+}
+.footer-box img
+{
+width: 40%;
+margin-bottom: 20px;
+}
